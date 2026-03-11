@@ -327,25 +327,25 @@ order by 1;
 | 201703 | 23549 | 8782 | 2977 | 37.29 | 12.64 |
 
 ## Insights
-* Website performance improved in Q1 2017.
-Visits increased from 64,694 (Jan) to 69,931 (Mar) (+8.1%), while transactions grew from 713 to 993 (+39%). The much faster growth in transactions suggests an improvement in conversion performance or marketing effectiveness.
 
-* Website traffic is heavily driven by Google (organic search), which generates the highest number of visits (38,400). However, its relatively high bounce rate (51.6%) compared to direct traffic (43.3%) suggests that while SEO is the main acquisition channel, users arriving directly to the website tend to be more engaged and likely more familiar with the brand.
+* Website performance improved in Q1 2017. Visits increased from 64,694 (Jan) to 69,931 (Mar) (+8.1%), while transactions grew from 713 to 993 (+39%). The much faster growth in transactions suggests an improvement in conversion performance or marketing effectiveness.
 
-* Direct traffic generates the majority of revenue. In June 2017, direct traffic generated ~97,333 revenue, significantly higher than Google (~18,757). This indicates that direct visitors likely represent returning customers or users with stronger purchase intent.
+* Organic search is the primary traffic driver. Google generates the highest number of visits (38,400), highlighting SEO as the main acquisition channel. However, its higher bounce rate (51.6%) compared to direct traffic (43.3%) suggests that users arriving directly are more engaged and likely more familiar with the brand.
 
-* Purchasers navigate the website more efficiently. Purchasers viewed 94–124 pages on average, while non-purchasers viewed 316–334 pages. This suggests buyers find products more quickly, whereas non-buyers may struggle with product discovery or lack purchase intent.
+* Direct traffic generates the majority of revenue. In June 2017, direct traffic generated ~97,333 revenue, far exceeding Google (~18,757) and other channels. This indicates that direct visitors likely represent returning customers with stronger purchase intent.
 
-* Funnel conversion improved significantly across Q1 2017. Purchase rate increased from 8.31% (Jan) to 12.64% (Mar). This improvement indicates better funnel performance, potentially driven by improved product pages, marketing targeting, or checkout experience.
+* Purchasers navigate the website more efficiently. Purchasers viewed 94-124 pages on average, while non-purchasers viewed 316-334 pages. This suggests buyers find products more quickly, whereas non-buyers may struggle with product discovery or lack purchase intent.
+
+* The purchase funnel became more efficient across Q1 2017. The add-to-cart rate increased from 28.47% to 37.29%, while the purchase rate rose from 8.31% to 12.64%. This indicates users were increasingly likely to progress from product view to purchase.
 
 ## Recommendations
 
-*  Optimize landing pages for Google traffic: Since Google drives the largest traffic but has a high bounce rate (51.6%), improving landing page relevance, navigation, and page speed could significantly increase engagement and conversions.
+*  Optimize SEO landing pages. Since organic search drives a large portion of traffic, improving landing page relevance, page speed, and product navigation can increase engagement and reduce bounce rates.
 
-*  Focus on high-intent traffic channels: Direct traffic generates the highest revenue, suggesting strong purchase intent. Marketing strategies should encourage returning visitors, such as email campaigns, retargeting ads, and loyalty programs.
+*  Strengthen customer retention strategies. Returning visitors tend to show stronger purchase intent. Implementing email marketing, loyalty programs, and personalized offers can encourage repeat purchases.
 
-* Implement product recommendation strategies: Customers frequently purchase multiple items in a session (avg 4.16 transactions per purchasing user). Features like “Frequently Bought Together” can increase cross-selling and average order value.
+* Implement product recommendation strategies. Customers frequently purchase multiple items in a session. Features like “Frequently Bought Together” can increase cross-selling and average order value.
 
-* Improve product discovery for browsing users: Non-purchasers view 3× more pages than purchasers, indicating potential friction in product search or navigation. Enhancing search functionality, product categorization, and personalized recommendations could improve conversion rates.
+* Improve product discovery on the website. Enhancing search functionality, product categorization, and filtering options can help users find relevant products faster and reduce browsing friction.
 
-* Continue optimizing the purchase funnel.With purchase rate improving from 8.3% → 12.6%, further gains may come from simplifying checkout steps, improving product page clarity, and testing promotional incentives.
+* Continue optimizing the purchase funnel. Simplifying checkout steps, improving product page information, and testing promotional incentives can further improve conversion rates.
