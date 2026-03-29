@@ -349,7 +349,7 @@ ORDER BY quantity DESC;
 
 This analysis reveals that in Quarter 2 2017, BigBang Merchandise Store is facing a classic E-commerce challenge: declining traffic quality and inefficient bottom-funnel conversion.
 
-Strategic Action Plan
+📍 Strategic Action Plan
 
 |Target measures| Priority actions | Expected results |
 | ------ | ------------------------ | ---------------------------- |
