@@ -1,6 +1,6 @@
 # 📊 Analyzing E-Commerce Traffic Performance and Purchase Funnel in BigBang Merchandise Store | SQL
 
-![Banner của tôi](Gemini_Generated_Image.png)
+![Banner của tôi](Gemini_Generated_Image_01.png)
 
 ## Table of Contents
 
